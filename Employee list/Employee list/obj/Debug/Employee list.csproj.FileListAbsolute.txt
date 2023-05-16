@@ -1,0 +1,28 @@
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee list.csproj.AssemblyReference.cache
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee list.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee_list.Form1.resources
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee_list.Properties.Resources.resources
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee list.csproj.GenerateResource.cache
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee list.csproj.CoreCompileInputs.cache
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\bin\Debug\Employee list.exe.config
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\bin\Debug\Employee list.exe
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\bin\Debug\Employee list.pdb
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee list.csproj.CopyComplete
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee list.exe
+C:\Users\Vid\Desktop\PROKTORIO\Employee list\Employee list\obj\Debug\Employee list.pdb
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\bin\Debug\Employee list.exe.config
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\bin\Debug\Employee list.exe
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\bin\Debug\Employee list.pdb
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee list.csproj.AssemblyReference.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee list.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee_list.Form1.resources
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee_list.Properties.Resources.resources
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee list.csproj.GenerateResource.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee list.csproj.CoreCompileInputs.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee list.csproj.CopyComplete
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee list.exe
+C:\Users\Vid\Desktop\Proktorio projekat\Employee list\Employee list\obj\Debug\Employee list.pdb

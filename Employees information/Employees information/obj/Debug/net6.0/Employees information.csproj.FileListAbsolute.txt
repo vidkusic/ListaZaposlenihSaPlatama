@@ -1,0 +1,183 @@
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\appsettings.json
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Employees information.exe
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Employees information.deps.json
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Employees information.runtimeconfig.json
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Employees information.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Employees information.pdb
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.AssemblyReference.cache
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.AssemblyInfoInputs.cache
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.AssemblyInfo.cs
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.CoreCompileInputs.cache
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.Employees information.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees information.props
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees information.props
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees information.props
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\scopedcss\bundle\Employees information.styles.css
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.CopyComplete
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\refint\Employees information.dll
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.pdb
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\Employees information.genruntimeconfig.cache
+C:\Users\Marko\OneDrive\Радна површина\Challenge\Employees information\Employees information\obj\Debug\net6.0\ref\Employees information.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\appsettings.json
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Employees information.exe
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Employees information.deps.json
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Employees information.runtimeconfig.json
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Employees information.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Employees information.pdb
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.AssemblyReference.cache
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.AssemblyInfoInputs.cache
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.AssemblyInfo.cs
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.CoreCompileInputs.cache
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.Employees information.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees information.props
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees information.props
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees information.props
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\scopedcss\bundle\Employees information.styles.css
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.CopyComplete
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\refint\Employees information.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.pdb
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\Employees information.genruntimeconfig.cache
+C:\Users\Vid\Desktop\Employees information\Employees information\obj\Debug\net6.0\ref\Employees information.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vid\Desktop\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\appsettings.json
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Employees information.exe
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Employees information.deps.json
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Employees information.runtimeconfig.json
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Employees information.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Employees information.pdb
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.AssemblyReference.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.AssemblyInfoInputs.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.AssemblyInfo.cs
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.CoreCompileInputs.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.Employees information.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees information.props
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees information.props
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees information.props
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\scopedcss\bundle\Employees information.styles.css
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.csproj.CopyComplete
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\refint\Employees information.dll
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.pdb
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\Employees information.genruntimeconfig.cache
+C:\Users\Vid\Desktop\Proktorio projekat\Employees information\Employees information\obj\Debug\net6.0\ref\Employees information.dll
